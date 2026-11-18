@@ -1,0 +1,6 @@
+FlatAppearance - para estilizar a borda.
+BorderColor - Cor da borda
+BorderSize - Tamanho da borda
+MouseDownBackColor - Cor que aparece quando clica
+MouseOverBackColor - Cor que aparece quando o mouse passa emcima do botão
+Cursor - Mudar o cursor para o da mão

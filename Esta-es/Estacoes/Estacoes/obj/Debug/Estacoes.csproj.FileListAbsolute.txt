@@ -1,0 +1,11 @@
+C:\Users\DB\Desktop\Estacoes\Estacoes\bin\Debug\Estacoes.exe.config
+C:\Users\DB\Desktop\Estacoes\Estacoes\bin\Debug\Estacoes.exe
+C:\Users\DB\Desktop\Estacoes\Estacoes\bin\Debug\Estacoes.pdb
+C:\Users\DB\Desktop\Estacoes\Estacoes\obj\Debug\Estacoes.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\Estacoes\Estacoes\obj\Debug\Estacoes.Form1.resources
+C:\Users\DB\Desktop\Estacoes\Estacoes\obj\Debug\Estacoes.Properties.Resources.resources
+C:\Users\DB\Desktop\Estacoes\Estacoes\obj\Debug\Estacoes.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\Estacoes\Estacoes\obj\Debug\Estacoes.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\Estacoes\Estacoes\obj\Debug\Estacoes.exe
+C:\Users\DB\Desktop\Estacoes\Estacoes\obj\Debug\Estacoes.pdb
+C:\Users\DB\Desktop\Estacoes\Estacoes\obj\Debug\Estacoes.exe.config
